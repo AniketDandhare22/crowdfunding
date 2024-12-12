@@ -67,16 +67,7 @@ view the README.md file inside backend directory.
 ![cf5](https://github.com/Karthik-02/crowdfundchain/assets/81423983/91c20539-0109-498c-b778-b72ebd7cc57c)
 
 ## Authors
-- [@KarthikS](https://www.github.com/Karthik-02)
-
-## Acknowledgements
-
- - [https://youtu.be/qDqJZl32oN4](https://youtu.be/qDqJZl32oN4)
- - [https://portal.thirdweb.com/contracts/deploy/overview](https://portal.thirdweb.com/contracts/deploy/overview)
- - [Getting Started | Vite (vitejs.dev)](https://vitejs.dev/guide/)
- - [Getting started with thirdweb React SDK](https://portal.thirdweb.com/react/v4/getting-started)
-
-
+- [@Aniketdandhare22](https://github.com/AniketDandhare22)
   
 ## Badges
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
